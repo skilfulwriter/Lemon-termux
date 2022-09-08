@@ -41,7 +41,7 @@
 * `apt-get upgrade -y`
 * `apt install python python2 -y`
 * `pip install lolcat`
-* `git clone https://github.com/h4ck3r0/Lemon-termux`
+* `git clone https://github.com/skilfulwriter/Lemon-termux`
 * `cd Lemon-termux`
 * `bash lemon.sh`
 
