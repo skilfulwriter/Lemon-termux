@@ -47,10 +47,7 @@
 
 [+]-- Type lemon To Run
 
-Watch video From Here
-
-[![Watch the video](https://img.youtube.com/vi/1L-VBnf2CKw/maxresdefault.jpg)](https://youtu.be/1L-VBnf2CKw)
-
+ 
 ## Credits
  - Special Thanks to [D3vl](https://github.com/d3vl/l3mon)
  - Java [MasterDevX](https://github.com/masterdevx)
@@ -63,6 +60,6 @@ Watch video From Here
  - [Leaflet](https://leafletjs.com/)
 
 ## CONNECT WITH US :
-<a href="https://www.buymeacoffee.com/h4ck3r" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.xheishou.com" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
  
